@@ -1,0 +1,23 @@
+footer p{
+    color: white;
+}
+
+footer i{
+    color: white;
+}
+
+.sectionFont{
+
+    color: white;
+    margin-bottom: 40px ;
+}
+
+.section-bg{
+    background-color: black;
+    width: 100%;
+}
+
+
+Article{
+    margin-bottom: 40px;
+}
