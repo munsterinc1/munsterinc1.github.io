@@ -17,6 +17,26 @@ footer i{
     width: 100%;
 }
 
+#img-section {
+    background-image: url("../img/PIXNIO-248628-5700x3800.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+  }
+
+  #img-section div {
+    position: absolute;
+    bottom: 4.000rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+
+  #img-section h1 {
+    font-size: 4.0rem;
+  }
 
 Article{
     margin-bottom: 40px;
