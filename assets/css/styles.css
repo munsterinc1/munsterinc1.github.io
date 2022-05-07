@@ -6,6 +6,11 @@ footer i{
     color: white;
 }
 
+footer a{
+  color: white;
+}
+
+
 .sectionFont{
 
     color: white;
@@ -28,10 +33,12 @@ footer i{
 
 #mis-trabajos {
 
+    margin: auto;
 }
 
 #acerca-de-mi {
-  
+    margin: auto
+
 }
 
   #img-section div {
